@@ -1,0 +1,3 @@
+[submodule "maths-for-ml-and-ds-specialization"]
+	path = maths-for-ml-and-ds-specialization
+	url = git@github.com:infra-development/maths-for-ml-and-ds-specialization.git

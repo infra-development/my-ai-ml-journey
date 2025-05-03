@@ -1,0 +1,33 @@
+= AI Roadmap
+:toc:
+:toc-title: Table of Contents
+:toclevels: 3
+
+== Introduction
+This document outlines the roadmap of learning AI
+
+== Mathematics for AI
+1. https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science[Linear Algebra for ML and Data Science]
+2. https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science[Calculus for ML and Data Science]
+3. https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science[Probability and Statistics for ML and Data Science]
+4. https://www.coursera.org/learn/stanford-statistics[Introduction to Statistics]
+
+== Statistics with Python
+1. https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python[Understanding and Visualizing Data with Python]
+2. https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python[Inferential Statistical Analysis with Python]
+3. https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python[Fitting Statistical Models to Data with Python]
+
+== IBM AI Engineer Professional Certificate
+1. https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer[Machine Learning with Python]
+2. https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer[Introduction to Deep Learning & Nural Networks with Keras]
+3. https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?specialization=ai-engineer[Deep Learning with Keras and TensorFlow]
+4. https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=ai-engineer[Introduction to Neural Networks and PyTorch]
+5. https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=ai-engineer[Deep Learning with PyTorch]
+6. https://www.coursera.org/learn/ai-deep-learning-capstone?specialization=ai-engineer[AI Capstone Project with Deep Learning]
+7. https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation?specialization=ai-engineer[Generative AI with LLMs: Architecture and Data Preparation]
+8. https://www.coursera.org/learn/gen-ai-foundational-models-for-nlp-and-language-understanding?specialization=ai-engineer[Generative AI: Foundational Models for NLP and Language Understanding]
+9. https://www.coursera.org/learn/generative-ai-language-modeling-with-transformers?specialization=ai-engineer[Generative AI: Language Modeling with Transformers]
+10. https://www.coursera.org/learn/generative-ai-engineering-and-fine-tuning-transformers?specialization=ai-engineer[Generative AI: Engineering and Fine-Tuning Transformers]
+11. https://www.coursera.org/learn/generative-ai-advanced-fine-tuning-for-llms?specialization=ai-engineer[Generative AI: Advanced Fine-Tuning for LLMs]
+12. https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain?specialization=ai-engineer[Fundamentals of AI Agents using RAG and LangChain]
+13. https://www.coursera.org/learn/project-generative-ai-applications-with-rag-and-langchain?specialization=ai-engineer[Project: Generative AI Applications with RAG and LangChain]
