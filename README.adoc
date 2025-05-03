@@ -1,6 +1,6 @@
 = AI Roadmap
 :toc:
-:toc-title: Table of Contents
+:toc-title:
 :toclevels: 3
 
 == Introduction
